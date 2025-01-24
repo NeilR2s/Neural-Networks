@@ -1,2 +1,0 @@
-This is an implementation of a linear regression algorithm from scratch (only used pandas for loading and preprocessing, sklearn for train test split). Some functionalities like model fitting, optimization, and others are lacking, 
-but this will be resolved in future commits. The values are not far off from sklearn's model, and this will be resolved. The dataset used for demonstration and comparison purposes is from https://www.kaggle.com/datasets/camnugent/california-housing-prices.
